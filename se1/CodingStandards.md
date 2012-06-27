@@ -1,5 +1,5 @@
-PHP ±àÂë¹æ·¶
+PHP ç¼–ç è§„èŒƒ
 
-²ÎÕÕ ZF Coding Standards (RC)
+å‚ç…§ ZF Coding Standards (RC)
 http://framework.zend.com/wiki/display/ZFDEV/ZF+Coding+Standards+%28RC%29
 ---------
